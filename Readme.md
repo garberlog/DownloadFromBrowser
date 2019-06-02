@@ -9,10 +9,10 @@ In firefox you can set differnt file types to always save to your overall downlo
 ## Instructions
 Replace the path for the filepath variable in program.cs to be your desired download folder.  
 Then while in firefox:  
-1: Click the menu button and choose *options*.  
-2: In the *General* panel, go to the *Applications* section.  
+1: Click the menu button and choose **Options**.  
+2: In the **General** panel, go to the **Applications** section.  
 3: Select the entry for the file type you want to change.  
-4: In the action column's drop down menu select *use other*.  
+4: In the *Action* column's drop down menu select **Use other**.  
 5: In the resulting menu find this program and select it.  
-6: (Optional) The program will most likely not be in the main list. In this case hit the *browse...* button.  
+6: (Optional) The program will most likely not be in the main list. In this case press the **browse...** button.  
 6.5: Find this program's executable in the file explorer and select it.  
